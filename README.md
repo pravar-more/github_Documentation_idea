@@ -53,3 +53,22 @@ tables
 | R1C1 | R1C2 | R1C3 |
 | R2C1 | R2C2 | R2C3 |
 
+
+---
+TASK LIST
+
+- [x] Write a blog
+- [x] Make it interesting
+- [ ] Publish it
+
+---
+ADD COLOR
+
+```diff
+- This is a red colored line
++ This is a green colored line
+@@ This is a purple colored line @@
+```
+
+
+
